@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">BusinessApplication</string>
+    <string name="brand_name">Pizza Way</string>
+    <string name="description">Description</string>
+    <string name="description_text">We sell the best pizza for best value. Home delivery is available and the pizza will be at your door. Just give a call at the number given below.</string>
+    <string name="contact_information">Contact Information</string>
+    <string name="phone_number">+1 519-973-5446</string>
+    <string name="address">Address</string>
+    <string name="street_address">1715 Wyandotte St W, Windsor, Ontario N9B 1J2 Canada</string>
+    <string name="working_hours">Working Hours</string>
+    <string name="time">12 to 11 pm</string>
+</resources>
